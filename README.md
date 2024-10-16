@@ -8,7 +8,7 @@ This repository is my personal journal of learning advanced topics in machine le
 
 **Currently Grinding: Vision Transformers (ViT)**
 <div align="center">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Hesamation" width=250>
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sakalya_mitra" width=250>
 </div>
 
 ## 📝 My Notes
