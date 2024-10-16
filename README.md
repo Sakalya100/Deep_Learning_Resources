@@ -16,14 +16,14 @@ This repository is my personal journal of learning advanced topics in machine le
   <table>
     <tr>
       <td>
-        <img src="assets/CNN Notes.png" width="300"/>
+        <img src="assets/CNN.png" width="300"/>
         <br/>
-        <a href="assets/LLM-from-scratch-notes.pdf">CNN Notes</a>
+        <a href="Deep Learning Revision Day Wise/CNN/CNN.pdf">CNN Notes</a>
       </td>
       <td>
-        <img src="assets/RNN Notes.jpg" width="300"/>
+        <img src="assets/RNN.png" width="300"/>
         <br/>
-        <a href="assets/LLM-Hallucination.pdf">RNN Notes</a>
+        <a href="Deep Learning Revision Day Wise/RNN/RNN Notes.pdf">RNN Notes</a>
       </td>
     </tr>
   </table>
