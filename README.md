@@ -40,6 +40,7 @@ My goals of this learning retreat includes studying:
 - [Most of Distilled AI's Blogs](https://aman.ai/primers/ai/)
 - [Artem Kirsanov's AI/ML Playlist](https://www.youtube.com/playlist?list=PLgtmMKe4spCPsxyMpg-sxf3EcbsFYlzPK)
 - [Andrej Karpathy's golden Neural Net Playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Krish Naik Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) ✅
 - In-depth understanding/implementations of Transformers
 - Going Deep Into Unsupervised DL Use cases like Autoencoders, GANs, Diffusion Models
 - LLMs and related topics 
