@@ -1,2 +1,2 @@
-# Krish-Naik-Deep_Learning_Playlist
-All the Notes, Notebooks, Projects and Resources for the playlist will be maintained here.
+# AI Retreat
+I am on the journey to explore and learn different concepts on ML, DL, AI. Will keep on updating my notes and findings in this repo as my Personal Journal 
