@@ -25,6 +25,11 @@ This repository is my personal journal of learning advanced topics in machine le
         <br/>
         <a href="Deep Learning Revision Day Wise/RNN/RNN Notes.pdf">RNN Notes</a>
       </td>
+      <td>
+        <img src="assets/pytorch.png" width="300"/>
+        <br/>
+        <a href="https://neuralnomad.notion.site/PyTorch-Learning-Series-Part-1-13e60f647adc80d29e6bdd8712e7d85f?pvs=74">PyTorch</a>
+      </td>
     </tr>
   </table>
 </div>
@@ -42,6 +47,7 @@ My goals of this learning retreat includes studying:
 - [Andrej Karpathy's golden Neural Net Playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Krish Naik Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) ✅
 - [SQL Basics to Intermediate from 365 Data Science](https://neuralnomad.notion.site/Complete-SQL-Beginner-to-Advanced-13760f647adc80fabfa9fedf6fd9b704?pvs=74) ✅
+- PyTorch
 - In-depth understanding/implementations of Transformers
 - Going Deep Into Unsupervised DL Use cases like Autoencoders, GANs, Diffusion Models
 - LLMs and related topics 
