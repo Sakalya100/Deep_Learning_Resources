@@ -6,7 +6,7 @@ I am on the journey to explore and learn different concepts on ML, DL, AI. Will 
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
-**Currently Grinding: Vision Transformers (ViT)**
+**Currently Grinding: PyTorch**
 <div align="center">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sakalya_mitra" width=250>
 </div>
