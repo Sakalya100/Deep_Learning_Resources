@@ -8,7 +8,7 @@ This repository is my personal journal of learning advanced topics in machine le
 
 **Currently Grinding: Vision Transformers (ViT)**
 <div align="center">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Hesamation" width=250>
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sakalya_mitra" width=250>
 </div>
 
 ## 📝 My Notes
@@ -16,14 +16,14 @@ This repository is my personal journal of learning advanced topics in machine le
   <table>
     <tr>
       <td>
-        <img src="assets/CNN Notes.png" width="300"/>
+        <img src="assets/CNN.png" width="300"/>
         <br/>
-        <a href="assets/LLM-from-scratch-notes.pdf">CNN Notes</a>
+        <a href="Deep Learning Revision Day Wise/CNN/CNN.pdf">CNN Notes</a>
       </td>
       <td>
-        <img src="assets/RNN Notes.jpg" width="300"/>
+        <img src="assets/RNN.png" width="300"/>
         <br/>
-        <a href="assets/LLM-Hallucination.pdf">RNN Notes</a>
+        <a href="Deep Learning Revision Day Wise/RNN/RNN Notes.pdf">RNN Notes</a>
       </td>
     </tr>
   </table>
@@ -40,6 +40,7 @@ My goals of this learning retreat includes studying:
 - [Most of Distilled AI's Blogs](https://aman.ai/primers/ai/)
 - [Artem Kirsanov's AI/ML Playlist](https://www.youtube.com/playlist?list=PLgtmMKe4spCPsxyMpg-sxf3EcbsFYlzPK)
 - [Andrej Karpathy's golden Neural Net Playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Krish Naik Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) ✅
 - In-depth understanding/implementations of Transformers
 - Going Deep Into Unsupervised DL Use cases like Autoencoders, GANs, Diffusion Models
 - LLMs and related topics 
