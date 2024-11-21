@@ -1,8 +1,9 @@
 # AI Retreat: Learning Journal
 I am on the journey to explore and learn different concepts on ML, DL, AI. Will keep on updating my notes and findings in this repo as my Personal Journal 
 
-
-![header](assets/header.png)
+<div align="center">
+  <img alt="header" src="assets/header.png" width=300>
+</div>
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
