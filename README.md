@@ -32,6 +32,13 @@ This repository is my personal journal of learning advanced topics in machine le
         <a href="https://neuralnomad.notion.site/PyTorch-Learning-Series-Part-1-13e60f647adc80d29e6bdd8712e7d85f?pvs=74">PyTorch</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="assets/lstm.png" width="300"/>
+        <br/>
+        <a href="Deep Learning Revision Day Wise/LSTM/LSTM.pdf">LSTM Notes</a>
+      </td>
+    </tr>
   </table>
 </div>
 
